@@ -1,0 +1,14 @@
+.navbar{
+    width: 100vw;
+    background-color: beige;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar h2{
+    margin: 2vh 2vw;
+}
+
+.navbar button{
+    margin: 2vh 2vw;
+}

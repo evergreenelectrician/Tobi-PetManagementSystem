@@ -1,0 +1,8 @@
+.signInPage{
+    height: 100vh;
+}
+
+.googleButton{
+    margin: 20vh auto;
+    background-color: black;
+}

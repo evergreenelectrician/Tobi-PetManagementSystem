@@ -1,0 +1,83 @@
+.dashboard-wrapper{
+    width: 94vw;
+    margin: 0 auto;
+    height: 90vw;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.column{
+    display: block;
+    width: 70%;
+}
+
+.livefeed{
+    text-align: left;
+    width: fit-content;
+    width: 100%;
+    background-color: white;
+}
+
+.videofeed{
+    width: 100%;
+}
+
+.notifications{
+    width: 20vw;
+    margin: 20px 0;
+    border: 1px solid black;
+}
+
+.foodStock{
+    background-color: white;
+    margin: 10px 10px;
+    height: 45%;
+    text-align: center;
+}
+
+  table{
+    width: 100%;
+    border: 1px solid;
+    margin: 0 auto;
+  }
+
+  th, td{
+    border: 1px solid;
+  }
+
+.foodStock p{
+    padding: 5px;
+}
+
+.dueTableRow{
+    display: flex;
+    justify-content: space-around;
+}
+
+.tableheader{
+    font-weight: bold;
+}
+
+.dogDetails{
+    
+}
+
+.distressDetails{
+    display: flex;
+    justify-content: space-around;
+}
+
+.distressBox{
+
+}
+
+.distress{
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+
